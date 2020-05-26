@@ -1,1 +1,3 @@
-## app.js creates GET request to weatherapi.com with user entered zip code via CLI
+## GET request to weatherapi.com 
+
+app.js creates a GET request to weatherapi.com and retrieves weather details for the provided query.
